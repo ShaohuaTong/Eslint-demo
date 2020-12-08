@@ -7,4 +7,3 @@ function sayHi ( name ) {
 const age=12;
 
 var things = ['cool', "doubleeee!!"   ];
-
